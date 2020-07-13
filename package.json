@@ -51,7 +51,7 @@
     "loader.js": "^4.7.0",
     "prettier": "^1.18.2",
     "qunit-dom": "^0.8.4",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "engines": {
     "node": "8.* || >= 10.*"
